@@ -1,0 +1,1 @@
+# krivii-tehnika
