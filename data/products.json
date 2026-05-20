@@ -16,7 +16,7 @@
     "price": "12000",
     "status": "available",
     "is_bulky": 0,
-    "photo": "images",
+    "photo": "",
     "cat": "irrigation"
   }
 ]
