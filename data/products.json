@@ -1,0 +1,22 @@
+[
+  {
+    "id": 7,
+    "name": "Тестовий трактор",
+    "desc": "Опис тестового трактора",
+    "price": "999 000 грн",
+    "status": "available",
+    "is_bulky": 1,
+    "photo": "images/Traktor.jpg",
+    "cat": "tractors"
+  },
+  {
+    "id": 9,
+    "name": "Насосна система",
+    "desc": "Насосна система робі",
+    "price": "12000",
+    "status": "available",
+    "is_bulky": 0,
+    "photo": "images",
+    "cat": "irrigation"
+  }
+]
