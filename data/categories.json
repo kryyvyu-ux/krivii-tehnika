@@ -1,0 +1,236 @@
+[
+  {
+    "id": 1,
+    "slug": "tractors",
+    "name_uk": "Трактори",
+    "description": "Колісні та гусеничні трактори",
+    "sort_order": 1,
+    "created_at": "2026-03-22 13:08:17",
+    "parent_id": null
+  },
+  {
+    "id": 10,
+    "slug": "tractors_wheeled",
+    "name_uk": "Колісні трактори",
+    "description": null,
+    "sort_order": 1,
+    "created_at": "2026-05-06 03:33:20",
+    "parent_id": 1
+  },
+  {
+    "id": 13,
+    "slug": "combines_grain",
+    "name_uk": "Зернозбиральні",
+    "description": null,
+    "sort_order": 1,
+    "created_at": "2026-05-06 03:33:20",
+    "parent_id": 2
+  },
+  {
+    "id": 15,
+    "slug": "sprayers_towed",
+    "name_uk": "Причіпні",
+    "description": null,
+    "sort_order": 1,
+    "created_at": "2026-05-06 03:33:20",
+    "parent_id": 3
+  },
+  {
+    "id": 17,
+    "slug": "plows_disk",
+    "name_uk": "Дискові плуги",
+    "description": null,
+    "sort_order": 1,
+    "created_at": "2026-05-06 03:33:20",
+    "parent_id": 6
+  },
+  {
+    "id": 21,
+    "slug": "drip",
+    "name_uk": "Краплинне зрошення",
+    "description": null,
+    "sort_order": 1,
+    "created_at": "2026-05-06 03:33:20",
+    "parent_id": 8
+  },
+  {
+    "id": 23,
+    "slug": "parts_engine",
+    "name_uk": "Запчастини двигуна",
+    "description": null,
+    "sort_order": 1,
+    "created_at": "2026-05-06 03:33:20",
+    "parent_id": 4
+  },
+  {
+    "id": 2,
+    "slug": "combines",
+    "name_uk": "Комбайни",
+    "description": "Зернозбиральна та кормозбиральна техніка",
+    "sort_order": 2,
+    "created_at": "2026-03-22 13:08:17",
+    "parent_id": null
+  },
+  {
+    "id": 11,
+    "slug": "tractors_tracked",
+    "name_uk": "Гусеничні трактори",
+    "description": null,
+    "sort_order": 2,
+    "created_at": "2026-05-06 03:33:20",
+    "parent_id": 1
+  },
+  {
+    "id": 14,
+    "slug": "combines_fodder",
+    "name_uk": "Кормозбиральні",
+    "description": null,
+    "sort_order": 2,
+    "created_at": "2026-05-06 03:33:20",
+    "parent_id": 2
+  },
+  {
+    "id": 16,
+    "slug": "sprayers_self",
+    "name_uk": "Самохідні",
+    "description": null,
+    "sort_order": 2,
+    "created_at": "2026-05-06 03:33:20",
+    "parent_id": 3
+  },
+  {
+    "id": 18,
+    "slug": "plows_mouldboard",
+    "name_uk": "Лемішні плуги",
+    "description": null,
+    "sort_order": 2,
+    "created_at": "2026-05-06 03:33:20",
+    "parent_id": 6
+  },
+  {
+    "id": 22,
+    "slug": "pumps",
+    "name_uk": "Насоси",
+    "description": null,
+    "sort_order": 2,
+    "created_at": "2026-05-06 03:33:20",
+    "parent_id": 8
+  },
+  {
+    "id": 24,
+    "slug": "parts_hydraulics",
+    "name_uk": "Гідравліка",
+    "description": null,
+    "sort_order": 2,
+    "created_at": "2026-05-06 03:33:20",
+    "parent_id": 4
+  },
+  {
+    "id": 3,
+    "slug": "sprayers",
+    "name_uk": "Обприскувачі",
+    "description": "Причіпні та самохідні обприскувачі",
+    "sort_order": 3,
+    "created_at": "2026-03-22 13:08:17",
+    "parent_id": null
+  },
+  {
+    "id": 12,
+    "slug": "tractors_mini",
+    "name_uk": "Міні-трактори",
+    "description": null,
+    "sort_order": 3,
+    "created_at": "2026-05-06 03:33:20",
+    "parent_id": 1
+  },
+  {
+    "id": 19,
+    "slug": "cultivators",
+    "name_uk": "Культиватори",
+    "description": null,
+    "sort_order": 3,
+    "created_at": "2026-05-06 03:33:20",
+    "parent_id": 6
+  },
+  {
+    "id": 25,
+    "slug": "parts_electric",
+    "name_uk": "Електрика",
+    "description": null,
+    "sort_order": 3,
+    "created_at": "2026-05-06 03:33:20",
+    "parent_id": 4
+  },
+  {
+    "id": 4,
+    "slug": "parts",
+    "name_uk": "Запчастини",
+    "description": "Оригінальні та аналогові запчастини",
+    "sort_order": 4,
+    "created_at": "2026-03-22 13:08:17",
+    "parent_id": null
+  },
+  {
+    "id": 20,
+    "slug": "harrows",
+    "name_uk": "Борони",
+    "description": null,
+    "sort_order": 4,
+    "created_at": "2026-05-06 03:33:20",
+    "parent_id": 6
+  },
+  {
+    "id": 26,
+    "slug": "parts_body",
+    "name_uk": "Кузовні деталі",
+    "description": null,
+    "sort_order": 4,
+    "created_at": "2026-05-06 03:33:20",
+    "parent_id": 4
+  },
+  {
+    "id": 5,
+    "slug": "other",
+    "name_uk": "Інше",
+    "description": "Додаткове обладнання та аксесуари",
+    "sort_order": 5,
+    "created_at": "2026-03-22 13:08:17",
+    "parent_id": null
+  },
+  {
+    "id": 6,
+    "slug": "plows",
+    "name_uk": "Плуги та культиватори",
+    "description": "Плуги, культиватори, борони",
+    "sort_order": 6,
+    "created_at": "2026-05-06 03:33:20",
+    "parent_id": null
+  },
+  {
+    "id": 7,
+    "slug": "trailers",
+    "name_uk": "Причепи",
+    "description": "Причепи та напівпричепи",
+    "sort_order": 7,
+    "created_at": "2026-05-06 03:33:20",
+    "parent_id": null
+  },
+  {
+    "id": 8,
+    "slug": "irrigation",
+    "name_uk": "Зрошення та насоси",
+    "description": "Системи зрошення, насоси",
+    "sort_order": 8,
+    "created_at": "2026-05-06 03:33:20",
+    "parent_id": null
+  },
+  {
+    "id": 9,
+    "slug": "engines",
+    "name_uk": "Двигуни та агрегати",
+    "description": "Двигуни, редуктори, вали",
+    "sort_order": 9,
+    "created_at": "2026-05-06 03:33:20",
+    "parent_id": null
+  }
+]
